@@ -17,7 +17,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "My portfolio",
-  description: "This is my porfolio",
+  description: "Welcome to my personal portfolio! I am a passionate and skilled Web Developer, Full-Stack Developer, with a strong foundation in creating modern, responsive, and user-friendly websites. This portfolio showcases my skills, experience, and the projects I've worked on. Here, you can explore my technical expertise in web development, design, and digital solutions that empower businesses and individuals to succeed online.",
 };
 
 export default function RootLayout({
