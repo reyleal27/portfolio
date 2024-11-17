@@ -1,14 +1,16 @@
-Portfolio Website
+**Portfolio Website**
+
 This is my personal portfolio website, built using Next.js, Tailwind CSS, TypeScript, and Framer Motion. It's a responsive, modern, and interactive website designed to showcase my projects, skills, and experience. The website utilizes the latest web technologies for a fast and smooth user experience.
 
-Features
-Responsive Design: The portfolio is fully responsive, ensuring it looks great on all screen sizes, from mobile to desktop.
-Smooth Animations: Leveraging Framer Motion for interactive and smooth animations that bring the page to life.
-Fast Performance: Built with Next.js, ensuring optimal performance and fast load times with automatic static optimization.
-TypeScript Integration: Written in TypeScript for type safety and better development experience.
-Custom Design with Tailwind: Tailwind CSS is used for creating a flexible, custom, and utility-first design system that makes styling easier and faster.
-Project Showcase: A section dedicated to showcasing personal projects with descriptions, links, and tech stacks used.
-Technologies Used
+**Features**
+**Responsive Design**: The portfolio is fully responsive, ensuring it looks great on all screen sizes, from mobile to desktop.
+**Smooth Animations**: Leveraging Framer Motion for interactive and smooth animations that bring the page to life.
+**Fast Performance**: Built with Next.js, ensuring optimal performance and fast load times with automatic static optimization.
+**TypeScript Integration**: Written in TypeScript for type safety and better development experience.
+**Custom Design with Tailwind:** Tailwind CSS is used for creating a flexible, custom, and utility-first design system that makes styling easier and faster.
+**Project Showcase**: A section dedicated to showcasing personal projects with descriptions, links, and tech stacks used.
+
+**Technologies Used**
 Next.js: A React framework for building static and dynamic websites with ease, offering fast performance and SEO benefits.
 Tailwind CSS: A utility-first CSS framework that allows for rapid design and customization of the layout and components.
 TypeScript: A superset of JavaScript that provides type safety and improves developer productivity.
