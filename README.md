@@ -12,6 +12,7 @@ This is my personal portfolio website, built using Next.js, Tailwind CSS, TypeSc
 
 **Technologies Used**
 Next.js: A React framework for building static and dynamic websites with ease, offering fast performance and SEO benefits.
+
 Tailwind CSS: A utility-first CSS framework that allows for rapid design and customization of the layout and components.
 TypeScript: A superset of JavaScript that provides type safety and improves developer productivity.
 Framer Motion: A library for animations and transitions in React, providing smooth and interactive UI elements.
